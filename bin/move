@@ -9,4 +9,4 @@ puts "Welcome to Tic Tac Toe!"
 
 player_move = gets "Enter a move"
 
-board = move(input_to_index(player_move.to_i))
+board = move(input_to_index(player_move))
