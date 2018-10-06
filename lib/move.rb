@@ -16,6 +16,10 @@ def input_to_index(index)
   end
 end
 
+def move(index, board)
+  
+end
+
 # def move(index, board)
 #   index = input_to_index(index)
 #   for(;;) do
