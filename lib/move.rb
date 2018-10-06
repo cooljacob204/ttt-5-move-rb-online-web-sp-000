@@ -16,7 +16,7 @@ def input_to_index(index)
   end
 end
 
-def move(index, board)
+def move(index, board, player)
   
 end
 
