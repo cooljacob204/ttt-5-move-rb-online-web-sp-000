@@ -7,3 +7,24 @@ def display_board(board)
 end
 
 # code your input_to_index and move method here!
+
+def input_to_index(index)
+  if (index < 10 || index > 1) then
+    return index
+  else
+    return -1
+  end
+end
+
+def move(index, board)
+  index = input_to_index(index)
+  for(;;) do
+  
+  end
+end
+
+def start_game
+  for(;;) do
+  
+  end
+end
