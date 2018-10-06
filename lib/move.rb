@@ -16,15 +16,15 @@ def input_to_index(index)
   end
 end
 
-def move(index, board)
-  index = input_to_index(index)
-  for(;;) do
+# def move(index, board)
+#   index = input_to_index(index)
+#   for(;;) do
   
-  end
-end
+#   end
+# end
 
-def start_game
-  for(;;) do
+# def start_game
+#   for(;;) do
   
-  end
-end
+#   end
+# end
