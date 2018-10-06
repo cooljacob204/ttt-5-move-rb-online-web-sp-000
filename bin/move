@@ -8,7 +8,7 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Welcome to Tic Tac Toe!"
 
-player_move = gets "Enter a move for O"
+player_move = gets "Enter a move for X"
 
 player_move = input_to_index(player_move)
-move(board, player_move, "O")
+move(board, player_move, "X")
