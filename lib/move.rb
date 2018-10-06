@@ -11,7 +11,7 @@ end
 def input_to_index(index)
   index = index.to_i
   if (index < 10 || index > 1) then
-    return index
+    return index - 1
   else
     return -1
   end
