@@ -9,5 +9,3 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 
 player_move = gets "Enter a move for O"
-
-board = move(board, input_to_index(player_move), "O")
