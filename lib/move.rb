@@ -17,7 +17,7 @@ def input_to_index(index)
   end
 end
 
-def move(board, index, player = "")
+def move(board, index, player = "X")
   board[index] = player
   puts board
   return board
